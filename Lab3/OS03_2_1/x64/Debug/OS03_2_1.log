@@ -1,0 +1,7 @@
+﻿  OS03_2_1.cpp
+D:\Labs\ОС\Lab3\OS03_2_1\OS03_2_1.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Labs\ОС\Lab3\OS03_2_1\OS03_2_1.cpp(8,2): error C2065: cout: необъявленный идентификатор
+D:\Labs\ОС\Lab3\OS03_2_1\OS03_2_1.cpp(12,3): error C2065: cout: необъявленный идентификатор
+D:\Labs\ОС\Lab3\OS03_2_1\OS03_2_1.cpp(12,52): error C2065: endl: необъявленный идентификатор
